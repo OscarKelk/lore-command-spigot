@@ -4,4 +4,5 @@ This is a plugin for [SpigotMC](https://www.spigotmc.org/) which adds a command 
 
 Command Usage:
 `/lore <lore string>`
+
 *Requires 1 Experience Point*
